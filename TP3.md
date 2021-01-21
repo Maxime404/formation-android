@@ -1,4 +1,4 @@
-# TD 4: L'Internet
+# TP 3: L'Internet
 
 ## Avant de commencer
 

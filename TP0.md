@@ -1,4 +1,4 @@
-# TD 1 - Introduction à Android
+# TP 0 - Introduction à Android
 
 ## Avant de commencer
 

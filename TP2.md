@@ -1,6 +1,6 @@
-# TD 3 - Actions & Intents
+# TP 2 - Actions & Intents
 
-L'objectif de ce TD est d'implémenter des actions sur nos tâches, en naviguant entre des `Activity` et de les partager des infos entre elle ou dans une autre application avec des `Intent`.
+L'objectif de ce TP est d'implémenter des actions sur nos tâches, en naviguant entre des `Activity` et de les partager des infos entre elle ou dans une autre application avec des `Intent`.
 
 ## Suppression d'une tache
 

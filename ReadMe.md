@@ -18,20 +18,19 @@ Connaître les fondamentaux du développement Android et notamment:
 
 ## Déroulement
 
-Un minimum de slides et un maximum de TDs:
+Un minimum de slides et un maximum de TPs:
 
-- TD 1: Kotlin Koans & Codelabs d'Intro
-- TD 2: RecyclerView
-- TD 3: Actions & Intents
-- TD 4: Internet
-- TD 5: Architecture
-- TD 6: Images & Permissions
-- TD 7: SignUp/Login et Navigation
-- TD 8: Améliorations
-- Projet en Autonomie
-- Soutenance sur sujets exploratoires
+- TP 0: Kotlin Koans & Codelabs d'Intro
+- TP 1: RecyclerView
+- TP 2: Actions & Intents
+- TP 3: Internet
+- TP 4: Architecture
+- TP 5: Images & Permissions
+- TP 6: SignUp/Login et Navigation
+- TP 7: Sujets exploratoires & soutenance
+- TP 8: Projet en Autonomie
 
-À adapter en fonction du temps disponible
+À adapter en fonction des promotions et du temps disponible
 
 Références:
 
